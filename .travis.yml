@@ -1,2 +1,2 @@
 language: bash
-script: chmod +x scriptingisfun.sh && ./scriptingisfun
+script: chmod +x scriptingisfun.sh && ./scriptingisfun.sh
