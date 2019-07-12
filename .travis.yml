@@ -1,2 +1,2 @@
 language: bash
-script: echo success
+script: chmod +x scriptingisfun.sh && ./scriptingisfun
